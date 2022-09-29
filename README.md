@@ -1,3 +1,3 @@
 # DIO-Projetos
 
-## atividades executadas atrvés do ensino na DIO 
+## atividades executadas através do plataforma de ensino na DIO 
